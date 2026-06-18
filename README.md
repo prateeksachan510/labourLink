@@ -18,7 +18,7 @@ A Flutter mobile app that connects **Seekers** (skilled workers) with **Recruite
 - Google Maps route display and ETA estimation
 - In-app chat between recruiter and seeker
 
-### Level 2 modules
+### Modules
 - **Booking history** — completed, pending, and cancelled jobs
 - **Scheduled bookings** — future date/time with accept/reject and reminders
 - **Skill certificates** — upload licenses (image/PDF) via Cloudinary
